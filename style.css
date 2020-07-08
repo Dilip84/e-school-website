@@ -173,7 +173,9 @@ a.navbar-brand {
     margin: 0 auto;
     justify-content: space-between;
 }
-
+.text-center{
+    margin-bottom: 100px;
+}
 .testymonial-avater .img-fluid {
    
     width: 120px;
